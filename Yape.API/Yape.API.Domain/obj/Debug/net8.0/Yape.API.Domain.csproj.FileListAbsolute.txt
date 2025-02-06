@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\bin\Debug\net8.0\Yape.API.Domain.deps.json
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\bin\Debug\net8.0\Yape.API.Domain.dll
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\bin\Debug\net8.0\Yape.API.Domain.pdb
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\Yape.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\Yape.API.Domain.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\Yape.API.Domain.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\Yape.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\Yape.API.Domain.dll
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\refint\Yape.API.Domain.dll
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\Yape.API.Domain.pdb
+C:\Users\carlo\source\repos\Yape\Yape.API.Domain\obj\Debug\net8.0\ref\Yape.API.Domain.dll

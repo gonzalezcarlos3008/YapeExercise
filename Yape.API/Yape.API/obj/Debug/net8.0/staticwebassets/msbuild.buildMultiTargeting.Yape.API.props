@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Yape.API.props" />
+</Project>
