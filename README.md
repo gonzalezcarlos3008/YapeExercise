@@ -50,8 +50,8 @@ YapeExercise
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/yape-api-hexagonal.git
-cd yape-api-hexagonal
+git clone https://github.com/your-username/YapeExercise.git
+cd YapeExercise
 ```
 
 ### 3️⃣ Restore the Database
@@ -183,5 +183,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For any inquiries, feel free to reach out at [gonzalezcarlos@hotmail.com](mailto:gonzalezcarlos@hotmail.com).
+For any inquiries, feel free to reach out at [gonzalezcarlos3008@hotmail.com](mailto:gonzalezcarlos3008@hotmail.com).
 
